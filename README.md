@@ -9,6 +9,7 @@ The goal of this Challenge was to build and compare multiple machine learning mo
     <li> SMOTE Oversampling Algorithm </li>
     <li> Cluster Centroids Undersampling Algorithm </li>
     <li> SMOTEENN Combination Algorithm </li>
+    </ul>
 <li> A Logistic Regression Model was run on both datasets.</li>
 </ul>
 
