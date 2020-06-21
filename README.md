@@ -22,7 +22,7 @@ Naive Random Oversampling achieved the best results.
     <li> 99% Precision</li>
     <li>66% Sensitivity</li>
     </ul>
-    <img src="https://github.com/ljkirchman/MachineLearning/blob/master/Naive_Oversampling_CF_Matrix.png" />
+    <img src="https://github.com/ljkirchman/MachineLearning/blob/master/Naive_Oversampling_CF_Matrix.png" alt="Naive Oversampling Confusion Matrix">
 <h3>SMOTE Oversampling Algorithm</h3>
     <ul>
     <li>65.6% Accuracy</li>
